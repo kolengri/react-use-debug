@@ -51,3 +51,7 @@ const SomeComponent: React.FC = () => {
 ## License
 
 MIT © [kolengri](https://github.com/kolengri)
+
+## Inspired by
+
+- Kyle Cook [Web Dev Simplified](https://www.youtube.com/watch?v=wvJPGUuEUPk)
