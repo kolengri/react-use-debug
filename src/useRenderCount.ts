@@ -5,7 +5,7 @@ export const useRenderCount = () => {
 
   useEffect(() => {
     count.current++;
-  }, []);
+  });
 
   return count.current;
 };
