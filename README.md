@@ -23,7 +23,7 @@ yarn add react-use-debug
 
 ## Usage
 
-The aim of this package is to end up with annoying practice of component debugging. Hook shows component name with changed props and rerender count to console, and return all needed info as a result
+The aim of this package is to end up with annoying practice of component debugging. Hook shows component name with changed props and rerender count to console, and returns all needed info as a result
 
 ```tsx
 // SomeComponent.tsx
