@@ -28,8 +28,7 @@ The aim of this package is to end up with annoying practice of component debuggi
 ```tsx
 // SomeComponent.tsx
 import * as React from 'react';
-import * as ReactDOM from 'react-dom';
-import { useDebug } from '../src/useDebug';
+import { useDebug } from 'react-use-debug';
 
 const SomeComponent: React.FC = () => {
   const [count, setCount] = React.useState(0);
